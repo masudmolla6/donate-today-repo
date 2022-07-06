@@ -1,0 +1,174 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.background-img{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(images/donation11.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+.text-decoration{
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+    padding-top: 120px;
+    padding-left: 25%;
+    padding-right: 25%;
+
+}
+.text-decoration p{
+    padding-right: 25%;
+    padding-left: 25%;
+}
+h1{
+    font-size: 50px;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(orange,tomato);
+    border-radius: 5px;
+    font-weight: 700;
+    color: white;
+}
+.donation{
+        text-align: center;
+        text-transform: capitalize;
+        color: black;
+
+}
+.donation p{
+    color: black;
+}
+.donation h1{
+    font-size: 40px;
+}
+.first{
+    padding: 20px 40px;
+    background-image: linear-gradient(white,gray);
+    border-radius: 5px;
+    margin-right: 10px;
+}
+.secound{
+    padding: 20px 40px;
+    border: 2px solid red;
+    background: rgb(82, 58, 58);
+    border-radius: 5px;
+    margin-right: 10px;
+}
+.third{
+    padding: 20px 40px;
+    background-image: linear-gradient(white, gray);
+    border-radius: 5px;
+    margin-right: 10px;
+}
+.four{
+    padding: 20px 40px;
+    background-image: linear-gradient(white, gray);
+    border-radius: 5px;
+    margin-right: 10px;
+}
+.five{
+    padding: 20px 40px;
+    background-image: linear-gradient(white, gray);
+    border-radius: 5px;
+    margin-right: 10px;
+}
+p{
+    padding-bottom:10px ;
+}
+.form{
+    padding-top: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.form input{
+    text-align: center;
+    font-size: 30px;
+    width: 60%;
+    border: none;
+    border-bottom: 2px solid red;
+    
+}
+.amount{
+    text-align: center;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+}
+.donate-item{
+        width: 40%;
+        margin-left: 5%;            
+        margin-right: 5%;
+        padding-left: 20px;
+        border: 2px solid red;
+        background-color: rgb(128, 236, 236);
+        border-radius: 10px;
+}
+#food{
+    background: rgb(209, 129, 220);
+}
+#shelter{
+    background: rgb(163, 228, 226);
+}
+#Education{
+    background: rgb(103, 140, 226);
+}
+.food-icon{
+    padding-top: 10px;
+
+}
+.shelter-icon{
+    padding-top: 10px;
+}
+.edu-icon{
+    padding-top: 10px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 80%;
+    border-radius: 5px;
+}
+.updates{
+    text-align: center;
+    margin-bottom: 80px;
+}
+.input-email{
+    padding: 0%;
+    width: 60%;
+    height: 150px;
+    background: rgb(131, 116, 89);
+    margin-left: 21%;
+    border: none;
+
+}
+.input-email input{
+    margin-top: 10%;
+    height: 20px;
+}
+.input-email button{
+    background: red;
+    padding: 5px;
+    border: none;
+}
+.black{
+    width: 100%;
+    height: 100px;
+    background: black;
+    color: white;
+    text-align: center;
+}
+h2{
+    padding-top: 20px;
+    font-family: 'Pacifico', cursive;
+}
+.black p{
+    padding-bottom: 10px;
+    font-size: 10px;
+}
